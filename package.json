@@ -1,7 +1,7 @@
 {
   "name": "oboe-stream-request",
   "main": "./index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Use request.js with oboe.js",
   "author": {
     "name": "indieisaconcept",
