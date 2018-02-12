@@ -31,7 +31,9 @@
     "request": "^2.78.0",
     "trash-cli": "^1.4.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "concat-stream": "^1.6.0"
+  },
   "repository": {
     "url": "git+https://github.com/indieisaconcept/oboe-stream-request.git",
     "type": "git"
